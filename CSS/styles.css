@@ -1,0 +1,119 @@
+/* div{
+  background-color: #E4F9F5
+
+}
+div{
+  background-color: red
+  {width: 200px;
+  height: 200px;}
+} */
+/* div{
+  background-color: blue;
+  /* width: 200px; */
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight:normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.top-container{
+    background-color: #E4F9F5;
+    /* border: solid 10px; */
+    /* padding: 20px; */
+    /* width: 200px;
+    height: 200px; */
+    /* border-right: 0; */
+    position: relative;
+    padding-top: 100px;
+}
+.photo{
+  text-align: center;
+}
+/* .middle-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    /* margin-left: 260px;
+    border:solid  20px;
+    align-self: center; */
+
+/* .bottom-container{
+    /* background-color: blue;
+    width: 200px;
+    height: 200px; */
+    /* border:solid 10px;
+    margin-left: 500px; */
+.center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      height: 300px;
+      width: 250px;
+}
+.coding{
+  display: block;
+  margin:0 auto 0 auto;
+  border-radius: 50%;
+  height: 20%;
+  width: 20%;
+}
+.chilli{
+  display: block;
+  margin-left: 0;
+  border-radius: 50%;
+}
+.prog{
+  font-size: 2.5rem;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  right: 300px;
+}
+.skill-row{
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  float: left;
+}
+.skill{
+  text-align: center;
+}
+/* .cc{
+  text-align: left;
+}
+.ccp{
+  text-align: left;
+} */
+/* body{
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+}
+h1{
+  margin-top: 0;
+} */
